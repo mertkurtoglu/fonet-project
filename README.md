@@ -9,7 +9,9 @@ backend: Java ve Spring Boot kullanılarak geliştirilmiş, RESTful API servisle
 frontend: React.js kullanılarak geliştirilmiş, kullanıcı arayüzünü ve kullanıcı etkileşimlerini yöneten kısımdır.
 
 Ekran Görüntüleri
-Uygulamamızın çeşitli arayüzlerini aşağıda görebilirsiniz.
+Uygulamamızın çalışır halini gif olarak ve çeşitli arayüzlerini görsel olarak aşağıda görebilirsiniz. Video linki aşağıdadır, indirip inceleyebilirsiniz.
+
+https://github.com/mertkurtoglu/fonet-project/blob/main/fonet.mp4
 
 <img src="2025-09-01_13h15_43.png" >
 <img src="2025-09-01_13h16_00.png" >
